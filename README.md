@@ -274,15 +274,8 @@ CellPhoneV/
 Nếu gặp vấn đề trong quá trình cài đặt hoặc sử dụng, vui lòng:
 1. Kiểm tra phần "Xử lý lỗi" trong README
 2. Tạo issue trên GitHub
-3. Liên hệ qua email: your-email@example.com
+3. Liên hệ qua email: levanduy2605204@gmail.com
 
-## 📄 License
-
-Dự án này được phát hành dưới MIT License. Xem file `LICENSE` để biết thêm chi tiết.
-
----
-
-**CellPhoneV** - Hệ thống quản lý bán điện thoại di động hoàn chỉnh và chuyên nghiệp! 📱✨
 
 
 
