@@ -96,7 +96,7 @@ CellPhoneV là một hệ thống web bán điện thoại di động được x
 
 ### Bước 1: Clone dự án
 ```bash
-git clone https://github.com/your-username/CellPhoneV.git
+git clone https://github.com/LeVanDuy26/CellPhoneV.git
 cd CellPhoneV
 ```
 
